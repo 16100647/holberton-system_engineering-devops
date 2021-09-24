@@ -1,0 +1,6 @@
+#!/bin/bash
+-rwxrw-r-- 1 vagrant vagrant 16 Sep 24 17:42 0-current_working_directory
+-rwxrw-r-- 1 vagrant vagrant 59 Sep 24 18:55 1-listit
+-rwxrw-r-- 1 vagrant vagrant 15 Sep 24 19:00 2-bring_me_home
+-rw-rw-r-- 1 vagrant vagrant 13 Sep 24 19:08 3-listfiles
+-rw-rw-r-- 1 vagrant vagrant 17 Sep 24 17:50 README.md
